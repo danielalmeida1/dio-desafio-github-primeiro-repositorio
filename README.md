@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Projeto sobre Git/GitHub. | Bootcamp Inter Frontend Developer - Digital Innovation One (DIO)
+# Repositório do Desafio de Projeto sobre Git/GitHub da DIO.
+## Bootcamp Inter Frontend Developer - Digital Innovation One (DIO)
